@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">AutoCare</string>
+    <string name="logo">LOGO</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Sign In</string>
+
+    <string name="title_activity_movie_memoir">MovieMemoir</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="register">Sign UP</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register_confirm">Register</string>
+    <string name="PersonAddress">Address</string>
+    <string name="post_code">Post Code</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+
+
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="place_holder">Place Holder</string>
+    <string name="top_movies_watched">Top Movies Watched</string>
+    <string name="hello_user">Hello, \nUser</string>
+    <string name="movie_search">Movie Search</string>
+    <string name="poster">Poster</string>
+    <string name="add">ADD</string>
+    <string name="country">Country:</string>
+    <string name="released">Released:</string>
+    <string name="director">Director:</string>
+    <string name="cast">Cast:</string>
+    <string name="genre">Genre:</string>
+    <string name="enter_watch_date_and_time">Enter Watch Date and Time</string>
+    <string name="cinema_post_code">Cinema Post Code</string>
+    <string name="cinema_name">Cinema Name</string>
+    <string name="addtomemoir">Add</string>
+    <string name="comments">Comments</string>
+    <string name="comment_and_rating">Comment and Rating</string>
+    <string name="add_new_cinema">Add New Cinema</string>
+    <string name="cinema_details">Cinema Details</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="watch_date_and_time">Watch Date and Time</string>
+    <string name="movie_memoir">Movie Memoir</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="poster_of_movie">Poster Of Movie</string>
+    <string name="watched">Watched:</string>
+    <string name="location">Location:</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="sort_by_your_rating">Sort By your Rating</string>
+    <string name="sort_by_public_rating">Sort By Public Rating</string>
+    <string name="image">image</string>
+    <string name="user0">User0</string>
+    <string name="report_menu">Report</string>
+    <string name="starting_date">Starting Date</string>
+    <string name="ending_date">Ending Date</string>
+    <string name="set">SET</string>
+    <string name="year">Year :</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map">Map</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="july_02_2048">July 02 2048</string>
+    <string name="title_activity_auto_care">AutoCare</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string-array name="State_array">
+        <item>NSW</item>
+        <item>NT</item>
+        <item>QLD</item>
+        <item>SA</item>
+        <item>TAS</item>
+        <item>VIC</item>
+        <item>WA</item>
+    </string-array>
+
+
+</resources>
