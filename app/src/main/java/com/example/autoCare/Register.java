@@ -129,10 +129,6 @@ public class Register extends AppCompatActivity {
         });
     }
 
-
-
-
-
     private boolean Validate()
     {
         fNameLayout = findViewById(R.id.input_layout_name);
